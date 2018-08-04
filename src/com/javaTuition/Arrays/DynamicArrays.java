@@ -18,6 +18,8 @@ public class DynamicArrays {
 
         System.out.println("The first 5 prime numbers are: "+prime);
 
+        System.out.println("I made a change");
+
 
         System.out.println("The size of this list is = "+prime.size());
     }
